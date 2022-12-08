@@ -1,6 +1,6 @@
 import { Component } from "react";
 import style from "components/Searchbar/Searchbar.module.css"
-import {toast } from 'react-toastify';
+//import {toast } from 'react-toastify';
 //import {fetchEvent} from "./Fech"
 
  export default class Form extends Component{

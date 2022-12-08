@@ -1,6 +1,6 @@
 //import Form  from "./Searchbar/Searchbar";
 import { Component } from "react";
-import { ToastContainer} from 'react-toastify';
+//import { ToastContainer} from 'react-toastify';
 import { fetchImages } from "./servise/Fech";
 import {Button} from './Button/Button'
 import { Loader } from "./Loader/Loader";
@@ -102,7 +102,6 @@ export class App extends Component{
         { showModal  && <Modal largeImageURL={largeImageURL} onClose={this.closeModal}>
           <img src={largeImageId} alt="text" />
         </Modal >}
-       <ToastContainer autoClose={3000} />
     </>
   )}
 };
