@@ -90,7 +90,7 @@ export class App extends Component{
     
       <>
        
-       <Form onSubmit={this.hendleSubmit} /> }
+       <Form onSubmit={this.hendleSubmit} /> 
         
         {loading && <Loader />}
         {images.length > 0 &&(
