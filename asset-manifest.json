@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-3-image-finder/static/css/main.49e2323a.css",
+    "main.js": "/hw-3-image-finder/static/js/main.955bcbac.js",
+    "index.html": "/hw-3-image-finder/index.html",
+    "main.49e2323a.css.map": "/hw-3-image-finder/static/css/main.49e2323a.css.map",
+    "main.955bcbac.js.map": "/hw-3-image-finder/static/js/main.955bcbac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e2323a.css",
+    "static/js/main.955bcbac.js"
+  ]
+}
